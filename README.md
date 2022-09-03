@@ -6,7 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSBG14&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
+## 
+  
+### Contact me !
+  
   >
   <a href="https://www.instagram.com/felipesbg.apk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:borges.felipe.felipe14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
