@@ -1,4 +1,4 @@
-### Hello ! I am Felipe Sanches 👋
+### Hello ! I am Felipe Sanches 👋 and I am probably programming some application.
 
 <div align="center">
   <a href="https://github.com/FelipeSBG14">
